@@ -1,4 +1,4 @@
-# Mechatronics Engineer and Aspiring Data Scientist
+# Aspiring Data Scientist
 
 👋 Hello there! Welcome to my GitHub profile. I'm a passionate Mechatronics Engineer with a strong interest in Python programming, machine learning, and artificial intelligence. I'm on a journey to explore the fascinating world of data science and contribute to cutting-edge technologies. 
 
