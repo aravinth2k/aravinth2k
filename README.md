@@ -4,7 +4,7 @@
 
 ## 🔧 Technologies and Tools
 
-- **Programming Languages:** Python, C++
+- **Programming Languages:** Python, C
 - **Data Analysis:** Pandas, NumPy
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras
 - **AI Development:** Natural Language Processing (NLP), Computer Vision
